@@ -16,4 +16,4 @@
 
 4. Wilcoxon-Signed-Rank test of the effectiveness relationship(CAN vs CAN(remove all the edges of the graph))
  
-![slicetime](https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/wilconxon(CAN-RemoveEdges).png)
+![wilconxon](https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/wilconxon(CAN-RemoveEdges).png)
